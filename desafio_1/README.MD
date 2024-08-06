@@ -1,7 +1,3 @@
-Claro! Aqui está um modelo de README em português para o seu projeto:
-
----
-
 # Coletor de Dados Climáticos e Notificador por E-mail
 
 ## Descrição
