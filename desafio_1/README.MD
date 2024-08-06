@@ -24,7 +24,7 @@ Este projeto foi desenvolvido para coletar dados meteorológicos de um site, pro
 
    ```bash
    git clone https://github.com/yourusername/weather-data-emailer.git
-   cd weather-data-emailer
+   cd desafio_1
    ```
 
 2. **Instale as bibliotecas Python necessárias:**
