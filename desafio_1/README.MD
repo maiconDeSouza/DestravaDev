@@ -23,7 +23,7 @@ Este projeto foi desenvolvido para coletar dados meteorológicos de um site, pro
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/yourusername/weather-data-emailer.git
+   git clone https://github.com/maiconDeSouza/DestravaDev/tree/main/desafio_1.git
    cd desafio_1
    ```
 
